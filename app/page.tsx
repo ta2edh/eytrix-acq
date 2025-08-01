@@ -13,9 +13,7 @@ export default function Component() {
             </p>
 
             <p className="text-lg leading-relaxed text-gray-300">
-              We're excited to embark on this journey with Meta's talented teams who share our passion for transforming
-              the way people create, communicate, and connect. Although Eytrix no longer operates independently, our
-              vision lives on, integrated into a broader mission.
+              We're thrilled to collaborate with Meta's talented teams, who share our passion for pushing the boundaries of AI innovation. Though Eytrix no longer operates independently, our vision thrives, integrated into a broader mission.
             </p>
 
             <p className="text-lg leading-relaxed text-gray-300">This marks the start of an exciting new chapter.</p>
